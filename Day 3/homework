@@ -1,4 +1,4 @@
-from turtle import *
+ from turtle import *
 
 print("saba khvedelidze")
 print("Day 3 homework")

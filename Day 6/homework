@@ -1,0 +1,31 @@
+from turtle import *
+
+
+#first homework
+
+num1 = input("please enter first number: ")
+print(int(num1) < 0)
+
+num2 = input("please enter second number: ")
+print(int(num2) > 0)
+print(int(num2) == 0)
+
+#second homework
+
+#print true or false
+
+print(9>2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
