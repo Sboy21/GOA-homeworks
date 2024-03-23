@@ -1,0 +1,21 @@
+
+
+age = int(input("Enter your age: "))
+
+print(age > 11 and age < 20)
+
+
+num = int(input("Please enter number: "))
+
+print(num > 100 and num == 9)
+
+
+
+
+
+
+
+
+
+
+

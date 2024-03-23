@@ -15,15 +15,34 @@ print(int(num2) == 0)
 #print true or false
 
 print(9>2)
+print(4>1)
+print(5>4)
+print(8>7)
+print(7>2)
 
+print(144>=74)
+print(64>=54)
+print(922>=849)
+print(75>=43)
+print(9021>=8127)
 
+print(8<10)
+print(90<912)
+print(74<73)
+print(942<1000)
+print(472<324)
 
+print(872<=752)
+print(43<=21)
+print(74<=49)
+print(938<=1467)
+print(85<=56)
 
-
-
-
-
-
+print(55==83)
+print(63==86)
+print(75==56)
+print(524==527)
+print(72==59)
 
 
 
