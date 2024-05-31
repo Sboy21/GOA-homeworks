@@ -1,8 +1,8 @@
 
 
-num = 4
+#num = 4
 
-print(num >= 0 and num < 5)
+#print(num >= 0 and num < 5)
 
 
 num1 = int(input("Please enter first number: "))

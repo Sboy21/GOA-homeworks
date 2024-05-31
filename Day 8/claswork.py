@@ -3,7 +3,7 @@ num1 = 50
 num2 = 40
 
 if num1 > num2:
-print("GOA")
+ print("GOA")
 
 
 mom = "maka"
@@ -12,8 +12,8 @@ sister = "elene"
 brother = "saba"
 
 if mom == "maka":
-if dad == "lado":
-if sister == "elene":
-if brother == "saba":
+ if dad == "lado":
+  if sister == "elene":
+   if brother == "saba":
 
-print(true or false)
+    print("true or false")
